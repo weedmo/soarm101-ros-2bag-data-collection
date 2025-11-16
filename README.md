@@ -483,12 +483,6 @@ Apache 2.0 - See [LICENSE](../LICENSE) for details.
 - [x] Multi-camera support
 - [x] Metadata collection system
 - [x] GUI-based bag recorder
-- [ ] URDF/XACRO robot models
-- [ ] MoveIt2 integration
-- [ ] Gazebo simulation
-- [ ] Multi-robot support
-- [ ] Real-time visualization (RViz2)
-- [ ] Behavior tree integration (BehaviorTree.CPP)
 
 ---
 
